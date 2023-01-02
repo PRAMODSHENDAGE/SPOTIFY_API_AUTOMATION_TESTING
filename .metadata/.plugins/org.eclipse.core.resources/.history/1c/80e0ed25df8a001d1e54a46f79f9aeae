@@ -1,0 +1,20 @@
+package CQA_113_SPOTIFY_API_AUTOMATION.CQA_113_SPOTIFY_API_AUTOMATION;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
+{
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
+}
